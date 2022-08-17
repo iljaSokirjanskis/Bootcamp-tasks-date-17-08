@@ -13,33 +13,33 @@ public class FirstTask {
         System.out.println("Enter second number");
         int b = inputNumber.nextInt();
 
-        if(a == b){
+        if (a == b) {
             System.out.println("is " + a + " equal to " + b + "? - true");
-        }else{
+        } else {
             System.out.println("is " + a + " equal to " + b + "? - false");
         }
 
-        if(a < b){
+        if (a < b) {
             System.out.println("is " + a + " less than " + b + "? - true");
-        }else{
+        } else {
             System.out.println("is " + a + " less than " + b + "? - false");
         }
 
-        if(a <= b){
+        if (a <= b) {
             System.out.println("is " + a + " less or equal to " + b + "? - true");
-        }else{
+        } else {
             System.out.println("is " + a + " less or equal to " + b + "? - false");
         }
 
-        if(a > b){
+        if (a > b) {
             System.out.println("is " + a + " greater than " + b + "? - true");
-        }else{
+        } else {
             System.out.println("is " + a + " greater than " + b + "? - false");
         }
 
-        if(a >= b){
+        if (a >= b) {
             System.out.println("is " + a + " greater or equal to " + b + "? - true");
-        }else{
+        } else {
             System.out.println("is " + a + " greater or equal to " + b + "? - false");
         }
     }

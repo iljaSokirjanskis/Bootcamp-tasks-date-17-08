@@ -14,9 +14,9 @@ public class SecondTask {
         System.out.println("Enter second Bool");
         boolean b2 = inputBool.nextBoolean();
 
-        if(b1 == b2){
+        if (b1 == b2) {
             System.out.println("Is b1 and b2 equal? - true");
-        }else{
+        } else {
             System.out.println("Is b1 and b2 equal? - false");
         }
     }
