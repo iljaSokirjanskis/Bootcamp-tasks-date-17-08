@@ -1,3 +1,9 @@
+//2) Ask user to input two boolean values and compare them.
+//    Input:
+//       Enter b1: true
+//       Enter b2: false
+//    Expected output:
+//       Is b1 and b2 equal? - false
 package company;
 
 import java.util.Scanner;

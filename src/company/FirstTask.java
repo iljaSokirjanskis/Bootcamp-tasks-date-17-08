@@ -1,3 +1,13 @@
+//1) Ask user to input two numbers, compare them and output result:
+//   Input:
+//       Enter value a: 10
+//       Enter value b: 10
+//   Expected output:
+//       is 10 equal to 10? - true
+//       is 10 less than 10? - false
+//       is 10 less or equal to 10? - true
+//       is 10 greater than 10? - false
+//       is 10 greater or equal to 10? - true
 package company;
 
 import java.util.Scanner;

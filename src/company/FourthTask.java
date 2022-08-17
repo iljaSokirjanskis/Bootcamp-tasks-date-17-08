@@ -1,3 +1,4 @@
+//4) Ask user to input a whole number and output false, if it is even number and true if it is odd number
 package company;
 
 import java.util.Scanner;
