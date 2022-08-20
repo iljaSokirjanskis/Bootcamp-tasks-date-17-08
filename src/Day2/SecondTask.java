@@ -4,7 +4,7 @@
 //       Enter b2: false
 //    Expected output:
 //       Is b1 and b2 equal? - false
-package company;
+package Day2;
 
 import java.util.Scanner;
 

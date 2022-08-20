@@ -3,7 +3,7 @@
 //        Enter boolean value: true
 //    Expected output:
 //        Opposite of "true" is "false"
-package company;
+package Day2;
 
 import java.util.Scanner;
 

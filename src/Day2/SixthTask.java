@@ -9,7 +9,7 @@
 //        a is -1 and b is -1 -> true
 //        a is 101 and b is 102 -> true
 //        a is 99 and b is 200 -> false
-package company;
+package Day2;
 
 import java.util.Scanner;
 

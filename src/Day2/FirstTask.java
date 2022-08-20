@@ -8,7 +8,7 @@
 //       is 10 less or equal to 10? - true
 //       is 10 greater than 10? - false
 //       is 10 greater or equal to 10? - true
-package company;
+package Day2;
 
 import java.util.Scanner;
 
